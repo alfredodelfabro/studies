@@ -1,2 +1,9 @@
 express/node_modules
 express/.env
+
+solidapi/node_modules
+solidapi/.yarn
+solidapi/.pnp
+
+nest-notes/node_modules
+nest-notes/.env
